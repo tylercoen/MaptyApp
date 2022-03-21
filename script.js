@@ -279,5 +279,9 @@ class App {
     location.reload();
   }
 }
+//Ability to edit workout
+//Ability to delete a workout
+//Ability to deleate all workouts
+//Ability to sort workouts
 
 const app = new App();
